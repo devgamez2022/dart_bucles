@@ -37,3 +37,6 @@ void main(List<String> args) {
     i = i + 2;
   } while (i <= x);
 }
+
+
+//Prof = $nombres ${gamez+lopez}
